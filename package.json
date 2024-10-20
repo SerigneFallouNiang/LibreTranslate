@@ -4,7 +4,7 @@
   "description": "[Try it online!](https://libretranslate.com) | [API Docs](https://libretranslate.com/docs) | [Community Forum](https://community.libretranslate.com/)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+      "build": "echo 'No build step required for LibreTranslate'"
   },
   "repository": {
     "type": "git",
