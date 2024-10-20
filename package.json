@@ -1,0 +1,22 @@
+{
+  "name": "libretranslate",
+  "version": "1.0.0",
+  "description": "[Try it online!](https://libretranslate.com) | [API Docs](https://libretranslate.com/docs) | [Community Forum](https://community.libretranslate.com/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SerigneFallouNiang/LibreTranslate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SerigneFallouNiang/LibreTranslate/issues"
+  },
+  "homepage": "https://github.com/SerigneFallouNiang/LibreTranslate#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
